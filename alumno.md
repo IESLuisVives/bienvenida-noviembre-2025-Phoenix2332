@@ -1,10 +1,10 @@
 # Datos del alumno/a
 
-Nombre: Tu nombre y Dos apellidos
+Nombre: Álvaro Ruiz Velázquez
 
-Curso: 1DAW o 2DAW
+Curso: 1DAW
 
-Email: tu email de IES Luis Vives o EducaMadrid
+Email: arv368@educa.madrid.org // alvaro.ruizvelazquez@alumno.iesluisvives.org
 
-Nick GitHub: Tu nick de GitHub
+Nick GitHub: Phoenix2332
 
